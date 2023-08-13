@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @jaybirde978
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+jaybirde978/jaybirde978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+ 🌱 I’m currently learning ... very new to this aspect  ,dont even know how to download definitions
+ that I need if i could bother anyone to point me in a somewhat genral direction I would appreciate it greatly
+ J
